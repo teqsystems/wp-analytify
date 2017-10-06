@@ -279,7 +279,7 @@ First, you need to Authenticate your GA account then you can select your web pro
 * New Feature : Added Cache For Operating System stats, Mobile Devices stats and Top Referrers stats.
 
 ### 1.2.1 - 2015-11-13 ###
-* Added brand new addons page.
+* Added brand new addon's page.
 * Better dashboard loading check.
 * New Analytify Menu in Admin Bar.
 * Calendar start date is now post date for per post analytics.
@@ -320,7 +320,7 @@ First, you need to Authenticate your GA account then you can select your web pro
 * Made transition from free to premium version more stable.
 
 ### 1.0.1 - 2015-01-05 ###
-* Minor maintaince build.
+* Minor maintenance build.
 
 ### 1.0.0 - 2015-01-01 ###
 * Initial Release.
